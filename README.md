@@ -1,7 +1,6 @@
 # CheckMyGrade Application
 **DATA 200 - Lab 1 | San Jose State University**  
-**Student:** Pragya Chourasia  
-**Professor:** Paramdeep Saini
+**By:** Pragya Chourasia  
 
 ---
 
